@@ -395,15 +395,12 @@ while True:
     elif choice == 9:
         health_awareness()
     
-    
-    
     elif choice == 10:
         print("\nThankyou for choosing\n"
         "HEALTH FIRST HOSPITAL\n"
         "We Wish You and Your Family\n" 
         "Good Health!\n")
         break
-
         
     else:
         print("Invalid Choice")
