@@ -137,7 +137,7 @@ def doctor_selection():
         return "Dr. Jadhav"
     
     elif choice == 8:
-        return "Dr. Kamble"
+        return "Dr. Choudhary"
     
     elif choice == 9:
         return "Dr.Patel"
