@@ -1,4 +1,4 @@
-# 🏥 Health First Hospital Management System
+# Health First Hospital Management System
 
 > **"Your Health, Our First Priority."**
 
